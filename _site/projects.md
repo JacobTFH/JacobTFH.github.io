@@ -25,7 +25,7 @@ The resulting sound is quite realistic and allows for a lot of the subtleties of
 The benefit of doing it this way rather than using full-length acoustic guitar strings is that the tuning is done digitally, so the strings can be very short.
 This gives us a lot of flexibility in terms of the shape and size of the instrument, and the method for changing chords and notes.
 
-The Strummi has been used in a number of research projects as well as community music sessions and live performances.
+It has been used in a number of research projects as well as community music sessions and live performances.
 We are hoping to continue developing the Strummi and hope to work with disabled musicians to develop the design and see it on stage.
 
 [Strummi Github Repository](https://github.com/JacobTFH/Strummi)

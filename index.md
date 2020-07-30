@@ -1,4 +1,4 @@
-# Jacob Harrison
+# Jacob Harrison :guitar: :bike: :computer:
 
 I am a technology researcher, with an interest in _musical instruments_, _disability_ and _access_.
 
@@ -7,6 +7,8 @@ I'm currently working as:
 - Director of the [OHMI Research Partnership (ORP)](http://www.ohmirp.org.uk/)
 - Freelance recording studio session leader at [Heart n Soul](https://www.heartnsoul.co.uk/)
 
-[Projects](/projects)
-
 You can get in touch with me via [email](mailto:jacobtfharrison@gmail.com) or [twitter](http://www.twitter.com/Jcb_H)
+
+---
+
+[Projects](/projects) / [Github](https://github.com/JacobTFH)

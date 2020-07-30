@@ -1,8 +1,7 @@
-<!-- ---
+---
 layout: page
-title: "projects"
-permalink: /https://jacobtfh.github.io/projects
---- -->
+title: "Projects"
+---
 
 
 # Projects

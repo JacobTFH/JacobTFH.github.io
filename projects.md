@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: page
 title: "projects"
 permalink: /https://jacobtfh.github.io/projects/
 ---
- -->
+
 
 # Projects
 

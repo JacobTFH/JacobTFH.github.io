@@ -2,10 +2,9 @@
 layout: page
 title: "Publications"
 ---
+# Publications
 
 [Home](index.md)
-
-# Publications
 
 ## PhD Thesis
 

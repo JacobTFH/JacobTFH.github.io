@@ -16,4 +16,4 @@ You can get in touch with me via [email](mailto:jacobtfharrison@gmail.com) or [t
 
 ---
 
-[Projects](/projects) / [Github](https://github.com/JacobTFH)
+[Projects](/projects) / [Publications](/publications) / [Github](https://github.com/JacobTFH)

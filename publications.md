@@ -11,7 +11,7 @@ title: "Publications"
 
 Harrison, Jacob 2020. “Instruments and Access: the Role of Instruments in Music and Disability” (PhD Thesis). Queen Mary University of London [Download](http://instrumentslab.org/data/jacob/jtfh-thesis.pdf)
 
-# Papers, Articles and Chapters
+## Papers, Articles and Chapters
 
 Jack, Robert H., Jacob Harrison, Andrew P. McPherson 2020. “DMIs as Research Products” Proceedings of the International Conference on New Interfaces for Musical Expression(NIME) [Download](http://instrumentslab.org/data/jacob/DMIs_Research_Products.pdf) 
 
@@ -27,6 +27,6 @@ Harrison, Jacob, Andrew P. McPherson 2017. “An Adapted Bass Guitar for One-Han
 
 Harrison, Jacob, Andrew P. McPherson 2017. “Adapting the Bass Guitar for One-Handed Playing” Journal of New Music Research, 46(3), pp.270–285 [More info](http://www.tandfonline.com/doi/abs/10.1080/09298215.2017.1340485)
 
-# Media
+## Media
 
 BBC Teach - Computer Science: Problem Solved episode 'One Handed Bass' [Watch](https://www.youtube.com/watch?v=0lA4Oppg4UM)

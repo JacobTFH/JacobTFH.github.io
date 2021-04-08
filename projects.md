@@ -6,7 +6,7 @@ title: "Projects"
 
 # Projects
 
-[Home](index.md) / [The Srummi](#the-strummi)
+[Home](index.md) / [The Strummi](#the-strummi) / [RePlay](#replay) / [Adapted Bass Guitar](#adapted-bass-guitar)
 
 ## The Strummi
 
@@ -54,6 +54,8 @@ The project has unfortunately been postponed since March 2020 due to the Covid-1
 
 [Click here](https://www.cwplus.org.uk/blog/2020/04/03/the-replay-study/) for more information on the Replay project.
 
+[Back to top](#projects)
+
 ## Adapted Bass Guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6tvavgYHDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -68,3 +70,5 @@ As it’s a prototype device we only used six solenoid motors on the 2nd 3rd and
 Read more about the One-Handed Bass project in the [Journal of New Music Research](https://www.tandfonline.com/doi/abs/10.1080/09298215.2017.1340485) or on the [Bela blog](https://blog.bela.io/2017/02/01/making-the-one-handed-bass-with-bela/)
 
 This project was featured in the [BBC Teach](https://www.youtube.com/watch?v=0lA4Oppg4UM) series _Computer Science: Problem Solved_.
+
+[Back to top](#projects)

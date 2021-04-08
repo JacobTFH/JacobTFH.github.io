@@ -32,7 +32,6 @@ We are hoping to continue developing the Strummi and hope to work with disabled 
 ## RePlay: Musical instrument for stroke rehabilitation
 
 <iframe src="https://player.vimeo.com/video/403623242" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/403623242">REPLAY -  A new instrument for upper limb rehabilitation</a> from <a href="https://vimeo.com/cwplus">CW+</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 The _RePlay_ study is an ongoing collaborative project between Queen Mary University of London and CWPlus at Chelsea and Westminster Hospital.
 Working with Robert Jack and Andrew McPherson at the [Augmented Instruments Lab](http://instrumentslab.org/) and Andrew Hall from [CWPlus](https://www.cwplus.org.uk/), we developed an instrument designed to support stroke rehabilitation exercises for upper limb impairments.

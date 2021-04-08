@@ -6,7 +6,7 @@ title: "Projects"
 
 # Projects
 
-[Home](index.md)
+[Home](index.md) / [The Srummi](#the-strummi)
 
 ## The Strummi
 
@@ -36,6 +36,8 @@ Harrison, Jacob, Alan Chamberlain, Andrew P. McPherson 2019. “Accessible Instr
 Jack, Robert H., Jacob Harrison, Andrew P. McPherson 2020. “DMIs as Research Products” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME) [Download](http://instrumentslab.org/data/jacob/DMIs_Research_Products.pdf)
 
 [Strummi Github Repository](https://github.com/JacobTFH/Strummi)
+
+[Back to top](#projects)
 
 ## RePlay: Musical instrument for stroke rehabilitation
 

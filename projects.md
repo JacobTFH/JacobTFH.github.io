@@ -6,17 +6,17 @@ title: "Projects"
 
 # Projects
 
-[Home](index.md) / [The Strummi](#the-strummi) / [RePlay](#replay) / [Adapted Bass Guitar](#adapted-bass-guitar)
+[Home](index.md) / [Strummi](#the-strummi) / [RePlay](#replay:-musical-instrument-for-stroke-rehabilitation) / [Adapted Bass Guitar](#adapted-bass-guitar)
 
-## The Strummi
+## Strummi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wUR-tp6DT4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The _Strummi_ is a guitar-based Accessible Digital Musical Instrument _(ADMI)_ designed to make guitar playing more physically accessible while preserving the tactile and acoustic response of real guitar strings.
+_Strummi_ is a guitar-based Accessible Digital Musical Instrument _(ADMI)_ designed to make guitar playing more physically accessible while preserving the tactile and acoustic response of real guitar strings.
 It was developed as part of my PhD research at Queen Mary University of London, with my co-researcher Robert Jack.
 It runs on c++ on the [Bela](https://bela.io/) environment.
 
-The _Strummi_ was influenced by instruments such as the [Kalichord](https://blog.bela.io/2017/05/15/kalichord/) and [BladeAxe](https://ccrma.stanford.edu/~rmichon/bladeaxe/).
+_Strummi_ was influenced by instruments such as the [Kalichord](https://blog.bela.io/2017/05/15/kalichord/) and [BladeAxe](https://ccrma.stanford.edu/~rmichon/bladeaxe/).
 It uses the real acoustic signal from dampened guitar strings to excite a physical model of a vibrating string.
 The resulting sound is quite realistic and allows for a lot of the subtleties of string plucking gestures to be preserved.
 The benefit of doing it this way rather than using full-length acoustic guitar strings is that the tuning is done digitally, so the strings can be very short.
@@ -67,7 +67,7 @@ Inspired by musical robotics projects, we decided to design and build a prototyp
 The mechanism is controlled via MIDI, which allows a range of controllers to be used.
 As it’s a prototype device we only used six solenoid motors on the 2nd 3rd and 4th frets of the A and D strings.
 
-Read more about the One-Handed Bass project in the [Journal of New Music Research](https://www.tandfonline.com/doi/abs/10.1080/09298215.2017.1340485) or on the [Bela blog](https://blog.bela.io/2017/02/01/making-the-one-handed-bass-with-bela/)
+Read more about the _Adapted Bass_ in the [Journal of New Music Research](https://www.tandfonline.com/doi/abs/10.1080/09298215.2017.1340485) or on the [Bela blog](https://blog.bela.io/2017/02/01/making-the-one-handed-bass-with-bela/)
 
 This project was featured in the [BBC Teach](https://www.youtube.com/watch?v=0lA4Oppg4UM) series _Computer Science: Problem Solved_.
 

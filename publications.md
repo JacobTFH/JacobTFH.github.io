@@ -22,9 +22,9 @@ Jack, Robert H., Jacob Harrison, Andrew P. McPherson 2018. “Democratising DMIs
 
 Harrison, Jacob, Robert H. Jack, Andrew P. McPherson 2018. “When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME)  [Download](http://www.eecs.qmul.ac.uk/~andrewm/jharrison_nime2018.pdf)
 
-Harrison, Jacob, Andrew P. McPherson 2017. “An Adapted Bass Guitar for One-Handed Playing” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME) [Download](http://homes.create.aau.dk/dano/nime17/papers/0102/paper0102.pdf)
+Harrison, Jacob, Andrew P. McPherson 2017. “An Adapted Bass Guitar for One-Handed Playing” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME)  [Download](http://homes.create.aau.dk/dano/nime17/papers/0102/paper0102.pdf)
 
-Harrison, Jacob, Andrew P. McPherson 2017. “Adapting the Bass Guitar for One-Handed Playing” Journal of New Music Research, 46(3), pp.270–285  [More info](http://www.tandfonline.com/doi/abs/10.1080/09298215.2017.1340485)
+Harrison, Jacob, Andrew P. McPherson 2017. “Adapting the Bass Guitar for One-Handed Playing” Journal of New Music Research, 46(3), pp.270–285 [More info](http://www.tandfonline.com/doi/abs/10.1080/09298215.2017.1340485)
 
 ## Media
 

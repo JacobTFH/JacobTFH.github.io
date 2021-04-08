@@ -27,7 +27,7 @@ We are hoping to continue developing the Strummi and hope to work with disabled 
 
 The Strummi appears in the following publications:
 
-Harrison, Jacob, Robert H. Jack, Andrew P. McPherson 2018. “When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME) [Download](http://www.eecs.qmul.ac.uk/~andrewm/jharrison_nime2018.pdf)
+Harrison, Jacob, Robert H. Jack, Andrew P. McPherson 2018. “When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME)  [Download](http://www.eecs.qmul.ac.uk/~andrewm/jharrison_nime2018.pdf)
 
 Jack, Robert H., Jacob Harrison, Andrew P. McPherson 2018. “Democratising DMIs: the relationship of expertise and control intimacy” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME) [Download](https://www.researchgate.net/publication/324390561_Democratising_DMIs_the_relationship_of_expertise_and_control_intimacy)
 

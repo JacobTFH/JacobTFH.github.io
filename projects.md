@@ -6,7 +6,7 @@ title: "Projects"
 
 # Projects
 
-[Home](index.md) / [Strummi](#the-strummi) / [RePlay](#replay:-musical-instrument-for-stroke-rehabilitation) / [Adapted Bass Guitar](#adapted-bass-guitar)
+[Home](index.md) / [Strummi](#the-strummi) / [RePlay](#replay-musical-instrument-for-stroke-rehabilitation) / [Adapted Bass Guitar](#adapted-bass-guitar)
 
 ## Strummi
 

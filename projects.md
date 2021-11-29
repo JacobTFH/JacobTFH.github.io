@@ -58,7 +58,8 @@ The project has unfortunately been postponed since March 2020 due to the Covid-1
 
 ## Adapted Bass Guitar
 
-<iframe width="560" height="315" src="https://youtu.be/k6tvavgYHDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6tvavgYHDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 In summer 2016 I worked with the [OHMI Trust](https://www.ohmi.org.uk/) on a design project concerned with adapting the bass guitar for one-handed playing.
 While some previous approaches to one-handed guitar playing rely on using a robotic picking hand, we wanted to give the performer the high degree of control over the expressivity of the sound that can be conveyed by the right hand.

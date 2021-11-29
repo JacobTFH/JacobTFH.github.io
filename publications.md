@@ -14,7 +14,7 @@ Harrison, Jacob 2020. “Instruments and Access: the Role of Instruments in Musi
 
 Jack, Robert H., Jacob Harrison, Andrew P. McPherson 2020. “DMIs as Research Products” Proceedings of the International Conference on New Interfaces for Musical Expression(NIME) [Download](http://instrumentslab.org/data/jacob/DMIs_Research_Products.pdf) 
 
-Harrison, Jacob, Alan Chamberlain, Andrew P. McPherson 2019. “Accessible Instruments in the Wild: Engaging with a Community of Learning-Disabled Musicians” Proceedings of the International Conference on Human Factors in Computing (CHI) [Download](https://dl.acm.org/citation.cfm?id=3313037)
+Harrison, Jacob, Alan Chamberlain, Andrew P. McPherson 2019. “Accessible Instruments in the Wild: Engaging with a Community of Learning-Disabled Musicians” Proceedings of the International Conference on Human Factors in Computing (CHI)  [Download](https://dl.acm.org/citation.cfm?id=3313037)
 
 McPherson, Andrew P., Fabio Morreale, Jacob Harrison 2018. “Musical Instruments for Novices: Comparing NIME, HCI and Crowdfunding Approaches” New Directions in Music and HCI. Springer  [More info](https://link.springer.com/chapter/10.1007/978-3-319-92069-6_12)
 
@@ -24,7 +24,7 @@ Harrison, Jacob, Robert H. Jack, Andrew P. McPherson 2018. “When is a Guitar n
 
 Harrison, Jacob, Andrew P. McPherson 2017. “An Adapted Bass Guitar for One-Handed Playing” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME)  [Download](http://homes.create.aau.dk/dano/nime17/papers/0102/paper0102.pdf)
 
-Harrison, Jacob, Andrew P. McPherson 2017. “Adapting the Bass Guitar for One-Handed Playing” Journal of New Music Research, 46(3), pp.270–285 [More info](http://www.tandfonline.com/doi/abs/10.1080/09298215.2017.1340485)
+Harrison, Jacob, Andrew P. McPherson 2017. “Adapting the Bass Guitar for One-Handed Playing” Journal of New Music Research, 46(3), pp.270–285  [More info](http://www.tandfonline.com/doi/abs/10.1080/09298215.2017.1340485)
 
 ## Media
 

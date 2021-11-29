@@ -27,7 +27,7 @@ We are hoping to continue developing the Strummi and hope to work with disabled 
 
 The Strummi appears in the following publications:
 
-Harrison, Jacob, Robert H. Jack, Andrew P. McPherson 2018. “When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME)  [Download](http://www.eecs.qmul.ac.uk/~andrewm/jharrison_nime2018.pdf)
+Harrison, Jacob, Robert H. Jack, Andrew P. McPherson 2018. “When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME) [Download](http://www.eecs.qmul.ac.uk/~andrewm/jharrison_nime2018.pdf)
 
 Jack, Robert H., Jacob Harrison, Andrew P. McPherson 2018. “Democratising DMIs: the relationship of expertise and control intimacy” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME) [Download](https://www.researchgate.net/publication/324390561_Democratising_DMIs_the_relationship_of_expertise_and_control_intimacy)
 
@@ -58,7 +58,7 @@ The project has unfortunately been postponed since March 2020 due to the Covid-1
 
 ## Adapted Bass Guitar
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k6tvavgYHDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/k6tvavgYHDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In summer 2016 I worked with the [OHMI Trust](https://www.ohmi.org.uk/) on a design project concerned with adapting the bass guitar for one-handed playing.
 While some previous approaches to one-handed guitar playing rely on using a robotic picking hand, we wanted to give the performer the high degree of control over the expressivity of the sound that can be conveyed by the right hand.

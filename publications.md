@@ -12,6 +12,10 @@ Harrison, Jacob 2020. “Instruments and Access: the Role of Instruments in Musi
 
 ## Papers, Articles and Chapters
 
+Lucas, Alex, Jacob Harrison, Franziska Schroeder, Miguel Ortiz 2021. “Cross-Pollinating Ecological Perspectives in ADMI Design and Evaluation”. Proceedings of the International Conference on New Interfaces for Musical Expression (NIME) [Read](https://nime.pubpub.org/pub/d72sylsq/release/1)
+
+Zayas-Garin, Luis, Jacob Harrison, Robert Jack, Andrew McPherson 2021 “DMI Apprenticeship: Sharing and Replicating Musical Artefacts” Proceedings of the International Conference on New Interfaces for Musical Expression (NIME) [Read](https://nime.pubpub.org/pub/dmiapprenticeship/release/1)
+
 Jack, Robert H., Jacob Harrison, Andrew P. McPherson 2020. “DMIs as Research Products” Proceedings of the International Conference on New Interfaces for Musical Expression(NIME) [Download](http://instrumentslab.org/data/jacob/DMIs_Research_Products.pdf) 
 
 Harrison, Jacob, Alan Chamberlain, Andrew P. McPherson 2019. “Accessible Instruments in the Wild: Engaging with a Community of Learning-Disabled Musicians” Proceedings of the International Conference on Human Factors in Computing (CHI)  [Download](https://dl.acm.org/citation.cfm?id=3313037)

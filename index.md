@@ -7,7 +7,7 @@ title: "Jacob Harrison"
 
 I am a technology researcher, with an interest in _musical instruments_, _disability_ and _access_.
 
-You can get in touch with me via [email](mailto:jacobtfharrison@gmail.com) or [twitter](http://www.twitter.com/Jcb_H)
+You can get in touch with me via [email](mailto:jacobtfharrison@gmail.com) or [mastodon](https://mas.to/@yak)
 
 ---
 
